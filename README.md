@@ -1,114 +1,60 @@
-Udacity Logo
-Logout
-PROJECT
-Build a Game-Playing Agent
-A part of the Artificial Intelligence Nanodegree and Specializations Program
-PROJECT REVIEW
-CODE REVIEW  1
-NOTES
-SHARE YOUR ACCOMPLISHMENT
- 
 Meets Specifications
-All done! Great submission overall; loved your report . 🎉
+Brilliant Learner,
+By carefully going through the project and through the reports, I am personally impressed with the diligent implementation of the required functions and well-written report. Great work done.:clap::clap:
+Now, it is time to move on to more challenging and interesting part of Udacity AI nanodegree. I wish you all the best and it was my pleasure reviewing this awesome project.
 
-Congratulations, and good luck with the rest of your nanodegree!
+Recommendations.
+Here are some links to very good materials that I believe will help increase the student's knowledge on Planning Search.
 
-Game Playing Agent
-The minimax and alphabeta functions pass all test cases.
+This link gives an insight into what is Automated Planning and Scheduling.
+This link will enhance your understanding of State Space Planning.
+The links below provide more information on Planning Agent.
 
-Correct!
-
-Submission Includes All Files
-All required file included.
-
-Correct!
-
-Heuristic Analysis
-At least three evaluation functions are implemented and analyzed.
-
-Interesting heuristics, and it's great you introduced the motivation separately for each of them. Very nicely done :)
-
-There is a very funny typo in your report. You say: "Below are the Heretics and their Results:"
-
-I bet you don't mean heretics 😄
-
-A brief report lists (using a table and any appropriate visualizations) and verbally describes the performance of agents using the implemented evaluation functions. Performance data includes results from tournament.py comparing (at a minimum) the best performing student heuristic against the ID_Improved agent.
-
-Very nice, detailed analysis and again very cool that you separated it by heuristic
-
-The report makes a recommendation about which evaluation function should be used and justifies the recommendation with at least three reasons supported by the data.
-
-I agree with your recommendation and reasoning
-
-Paper Summary
-The write up is approximately 1 page (500 words) and includes a summary of the paper (including new techniques introduced), and the key results (if any) that were achieved.
-
-Good summary of AlphaGo!
-
-  DOWNLOAD PROJECT
-1   CODE REVIEW COMMENTS
-Rate this review
-( )( ) ( ) ( ) ( ) 
-Student FAQ
-
-
-
-CRITERIA / MEETS SPECIFICATIONS
+http://users.csc.calpoly.edu/~fkurfess/Courses/580/Slides/Planning-Agents.pdf.
+http://artificialintelligence-notes.blogspot.com/2010/11/algorithem-simple-planning-agent.html.
+http://homepage.cs.uiowa.edu/~hzhang/c145/notes/10-Planning-6p.pdf.
+http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95/subsubsectionstar3_3_1_1.html.
 Planning Problem Representation
+The problems and class methods in the my_air_cargo_problems.py module are correctly represented.
 
- - The problems and class methods in the my_air_cargo_problems.py module are correctly represented
+Great work. All the problems and class methods in the my_air_cargo_problems.py module are correctly represented.
 
- - An optimal sequence of actions is identified for each problem in the written report.
+An optimal sequence of actions is identified for each problem in the written report.
+
+Good work. The report clearly identifies an optimal sequence of actions for each problem.
 
 Automated Heuristics
+Automated heuristics “ignore-preconditions” and “level-sum” (planning graph) are correctly implemented.
 
- - Automated heuristics for planning searches including “ignore-preconditions” and “level-sum” (planning graph) are correctly implemented
+Excellent. The automated heuristics ignore-preconditions and level-sum are correctly implemented.
+
 Performance Comparison
+At least three uninformed planning algorithms (including breadth- and depth-first search) are compared on all three problems, and at least two automatic heuristics are used with A* search for planning on all three problems including “ignore-preconditions” and “level-sum” from the Planning Graph.
 
- - At least three uninformed planning algorithms (including breadth- and depth-first search) are compared on all three problems. Note: Use python3 run_search.py -m OR python3 run_search.py -p 1 2 3 -s 1 2 -s 1 2 3 4 5 6 7 8 9 10 11 to run performance comparison
+Sensational work. In the report, a clear comparison of three uninformed planning algorithms(BFS, DFS and UCS) is provided. The report also compares the performance of A-star search used with ignore-preconditions and level-sum automatic heuristics.
 
- - At least two automatic heuristics are used with A* search for planning and are compared on all three problems including “ignore-preconditions” and “level-sum” from the Planning Graph.
+A brief report lists (using a table and any appropriate visualizations) and verbally describes the performance of the algorithms on the problems compared, including the optimality of the solutions, time elapsed, and the number of node expansions required.
 
- - A brief report lists (using a table and any appropriate visualizations) and verbally describes and analyses the performance of the algorithms on the problems compared, including the optimality of the solutions, time elapsed, and the number of node expansions required.
+Great presentation of results using well organized and labeled tables and graphs. The report also explicitly and verbally describes the performance of the algorithms in terms of optimality, time elapsed and node expansions, on the three problems.
 
- - The report and its performance comparison explains the reason for the observed results using at least one appropriate justification from the video lessons or from outside resources (e.g., Norvig and Russell’s textbook).
+The report explains the reason for the observed results using at least one appropriate justification from the video lessons or from outside resources (e.g., Norvig and Russell’s textbook).
 
-Coding and Analysis
+:+1: Great work in the report. The reasons for the observed results are explicitly explained in the report with appropriate justification from outside resources.
 
- - Download the template code from: https://github.com/udacity/AIND-Planning
-
- - Open the README.md file and follow the instructions there to complete the project.
-
- - Run script works successfully for all problems (unless takes too long)
-
-python3 run_search.py -m
- - All Unit Tests pass when running:
-
-python -m unittest tests.test_my_air_cargo_problems
-python -m unittest tests.test_my_planning_graph
-Reading
-
- - Read "Artificial Intelligence: A Modern Approach" 3rd edition chapter 10
 Research Review
+The report includes a summary of at least three key developments in the field of AI planning and search.
 
- - The report is complete and includes a summary of at least three key developments in the field of AI planning and search.
-Read up on important historical developments in the field of AI planning and search. Write a one-page report on three of these developments, highlighting the relationships between the developments and their impact on the field of AI as a whole.
+Well written research review On Distributed Multi-Agent Planning.
 
-Appropriate sources (such as books or magazine or journal articles) should be cited, and you should use citations in-line for sourced facts, quotations, and inferences.
+Recommendation.
+Please, check documents below for more information on other key developments in the field of AI planning and search.
 
-Submit this as:
-
-  * research_review.pdf
-[Tip: The book Artificial Intelligence: A Modern Approach by Norvig and Russell is chock full of references in the Bibliographical and Historical notes at the end of Chapter 10.]
-
-Submission
-
- - Submit your work with all unit tests passing by uploading a .zip file containing all your work, which must include the following files:
-
-my_air_cargo_problems.py
-my_planning_graph.py
-heuristic_analysis.pdf (written responses and analysis)
-research_review.pdf
+Fast Planning Through Planning Graph Analysis (Blum, Furst, 1997)
+Planning for Conjunctive Goals (Chapman,1987).
+https://www.ics.uci.edu/~dechter/papers/paginated_binders/PART%25201.pdf.
+Planning as satisfiability​.
+CIRCA: The Cooperative Intelligent Real-time Control Architecture (1993) by Musliner, David John.
+Fast-Forward (FF) Planner - uni-saarland.de.
 # Implement a Planning Search
 
 ## Synopsis
