@@ -1,3 +1,58 @@
+Udacity Logo
+Logout
+PROJECT
+Build a Game-Playing Agent
+A part of the Artificial Intelligence Nanodegree and Specializations Program
+PROJECT REVIEW
+CODE REVIEW  1
+NOTES
+SHARE YOUR ACCOMPLISHMENT
+ 
+Meets Specifications
+All done! Great submission overall; loved your report . 🎉
+
+Congratulations, and good luck with the rest of your nanodegree!
+
+Game Playing Agent
+The minimax and alphabeta functions pass all test cases.
+
+Correct!
+
+Submission Includes All Files
+All required file included.
+
+Correct!
+
+Heuristic Analysis
+At least three evaluation functions are implemented and analyzed.
+
+Interesting heuristics, and it's great you introduced the motivation separately for each of them. Very nicely done :)
+
+There is a very funny typo in your report. You say: "Below are the Heretics and their Results:"
+
+I bet you don't mean heretics 😄
+
+A brief report lists (using a table and any appropriate visualizations) and verbally describes the performance of agents using the implemented evaluation functions. Performance data includes results from tournament.py comparing (at a minimum) the best performing student heuristic against the ID_Improved agent.
+
+Very nice, detailed analysis and again very cool that you separated it by heuristic
+
+The report makes a recommendation about which evaluation function should be used and justifies the recommendation with at least three reasons supported by the data.
+
+I agree with your recommendation and reasoning
+
+Paper Summary
+The write up is approximately 1 page (500 words) and includes a summary of the paper (including new techniques introduced), and the key results (if any) that were achieved.
+
+Good summary of AlphaGo!
+
+  DOWNLOAD PROJECT
+1   CODE REVIEW COMMENTS
+Rate this review
+( )( ) ( ) ( ) ( ) 
+Student FAQ
+
+
+
 CRITERIA / MEETS SPECIFICATIONS
 Planning Problem Representation
 
